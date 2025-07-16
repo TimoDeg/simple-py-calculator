@@ -1,2 +1,3 @@
 # simple_py_calculator
-simple CLI py calculator for practise
+Pupose of this project is learning to code with best practises.
+Not intended to be an advanced calculator.
